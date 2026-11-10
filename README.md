@@ -6,7 +6,7 @@ All labs were completed in TryHackMe's legal, sandboxed environments. Flags, roo
 
 ## Labs
 
-* [Offensive Security Intro: Finding Hidden Pages with dirb](https://offensive-security-intro/README.md)
+* [Offensive Security Intro: Finding Hidden Pages with dirb](https://github.com/nocphonokwanda73-cyber/tryhackme-notes/blob/main/offensive-security-intro/README.md)
 
 ## Skills shown
 
